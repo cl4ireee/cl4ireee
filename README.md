@@ -4,18 +4,18 @@
 <p align ="center">
  <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
 </p>
-  <h1 align="center">AxellNetwork | Profile</h1>
+  <h1 align="center">Claire | Profile</h1>
   
   <img src="https://media.tenor.com/qLVgTQhZ4JoAAAAi/ehe-aha.gif" align = "right" width = "170"></img>
   <p width = "40">
    
 ```csharp
 -------------------------
-Hostname: AxellNetwork
+Hostname: Claire404
 Hobbies: Watch Anime & Drawing art
-Best Anime: oregairu, toradora
+Best Anime: 5toubun
 Location: Indonesia, West Javaa
-Domain: axeel.my.id
+Domain: cl4ireee.my.id
 ------------------------
 ```
 
