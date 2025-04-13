@@ -12,14 +12,18 @@
 </p>
 
  B i o d a t a 🎨
- ```kt
+ ## Code Example
+
+Here is the JavaScript code:
+
+```javascript
 function main() {
     console.log("About Me 🐾");
-    const name = "Clara";
+    const name = "Xiao Yan";
     console.log(`My name is ${name}`);
     
     const age = 18;
-    const gender = "Female";
+    const gender = "Male";
     
     console.log(`Age : ${age} Th`);
     console.log(`Gender : ${gender}`);
