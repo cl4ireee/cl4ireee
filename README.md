@@ -15,11 +15,11 @@
 ```javascript
 function main() {
     console.log("About Me 🐾");
-    const name = "Xiao Yan";
+    const name = "Clara";
     console.log(`My name is ${name}`);
     
     const age = 18;
-    const gender = "Male";
+    const gender = "Female";
     
     console.log(`Age : ${age} Th`);
     console.log(`Gender : ${gender}`);
