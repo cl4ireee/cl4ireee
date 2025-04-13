@@ -12,3 +12,18 @@
 </p>
 
  B i o d a t a 🎨
+ ```kt
+function main() {
+    console.log("About Me 🐾");
+    const name = "Xiao Yan";
+    console.log(`My name is ${name}`);
+    
+    const age = 18;
+    const gender = "Male";
+    
+    console.log(`Age : ${age} Th`);
+    console.log(`Gender : ${gender}`);
+    console.log("Not Programmers 👨‍💻");
+}
+
+main();```
