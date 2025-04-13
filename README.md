@@ -26,4 +26,4 @@ function main() {
     console.log("Not Programmers 👨‍💻");
 }
 
-main();```
+main();
