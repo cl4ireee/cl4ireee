@@ -12,10 +12,6 @@
 </p>
 
  B i o d a t a 🎨
- ## Code Example
-
-Here is the JavaScript code:
-
 ```javascript
 function main() {
     console.log("About Me 🐾");
