@@ -4,7 +4,7 @@
 <p align ="center">
  <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
 </p>
-  <h1 align="center">Claire</h1>
+  <h1 align="center">ᴄʟᴀʀᴀ</h1>
 
 
 <p align="center">
